@@ -109,3 +109,13 @@ This project demonstrates practical skills in:
 The dashboard provides useful insights for improving retail business 
 decisions.
 
+## 📊 Week 3: Interactive Dashboard Architecture
+In the final phase, I transitioned the data insights into an interactive executive dashboard using Tableau Public.
+
+### Key Visualizations Built:
+* **Product Performance Bar Chart:** Highlights revenue distribution across core product lines, establishing **Monitors** as the primary driver.
+* **Continuous Sales Trend Line:** Mapped out an unbroken timeline showcasing an annual sales peak in **March**.
+* **Peak Day Analysis Heatmap:** Created a dynamic matrix layout utilizing `Day Name` and `Product` dimensions to isolate core traffic zones.
+* **Global Slicers:** Engineered interactive multi-select filters for **Region** and **Month Name** linked across the entire data source.
+
+### Interactive Dashboard Preview:
