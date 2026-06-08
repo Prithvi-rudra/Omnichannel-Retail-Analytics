@@ -939,8 +939,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='23' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97708' id='22' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1146'>
+            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97708' id='24' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1146'>
                 <zone h='9885' id='19' name='Sales Trend' param='[federated.1cztxao00ijmb812vup930dtil1p].[mn:Order_Date:qk]' type-v2='filter' values='database' w='24615' x='74154' y='49570'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
