@@ -63,6 +63,14 @@ I transitioned the foundational data insights into a responsive executive dashbo
 
 ---
 
+## 🖥️ Interactive Dashboard Preview
+![Omnichannel Dashboard Layout](omnichannel_dashboard_layout.jpeg)
+![Peak Day Heatmap Matrix](peak_analysis_heatmap.jpeg)
+![Sales Trend Analysis](sales_trend Line Chart.jpeg)
+![Product Performance Analysis](product_performance Bar Chart.jpeg)
+
+---
+
 ## Project Structure
 Omnichannel-Retail-Analytics/
 │
